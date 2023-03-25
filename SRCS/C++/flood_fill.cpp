@@ -42,9 +42,3 @@ void floodFill(int x, int y, int newColor) {
     int oldColor = grid[x][y];
     floodFillUtil(x, y, oldColor, newColor);
 }
-
-int main() {
-    floodFill(2, 2, 3);
-
-    for (int i = 0; i < ROWS; i++) {
-        for (int j = 0
