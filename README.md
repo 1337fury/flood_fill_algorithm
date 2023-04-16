@@ -1,5 +1,5 @@
 # flood fill algorithm
-This repository contains an implementation of the flood fill algorithm in C, as well as a brief explanation of how the algorithm works.
+This repository contains an implementation of the flood fill algorithm in (C/C++/JS), as well as a brief explanation of how the algorithm works.
 
 ## What is the flood fill algorithm?
 The flood fill algorithm is a way to fill a connected region of a grid with a specific color. It starts at a given cell and expands outward until it reaches cells that are not part of the region or are already colored.
