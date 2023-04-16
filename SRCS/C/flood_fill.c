@@ -25,7 +25,7 @@ void floodFillUtil(int x, int y, int oldColor, int newColor) {
         return;
     }
 
-    // fill color
+    // fill color_
     grid[x][y] = newColor;
 
     // recur for north, east, south, and west
